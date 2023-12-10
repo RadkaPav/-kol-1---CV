@@ -1,0 +1,22 @@
+td, th {
+    border: 1px solid grey;
+    padding: 10px;
+}
+
+.education {
+    border-collapse: collapse;
+}
+
+.main-picture {
+    border: 2px solid burlywood;
+}
+
+.info, .hobby {
+    background-color: bisque;
+    padding: 10px;
+}
+
+.info {
+    width: 500px; 
+}
+
